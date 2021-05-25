@@ -1,0 +1,17 @@
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\weather_app.exe
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\weather_app.deps.json
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\weather_app.runtimeconfig.json
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\weather_app.runtimeconfig.dev.json
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\weather_app.dll
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\weather_app.pdb
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.csprojAssemblyReference.cache
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.AssemblyInfoInputs.cache
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.AssemblyInfo.cs
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.csproj.CoreCompileInputs.cache
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.dll
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.pdb
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.genruntimeconfig.cache
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\weather_app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Projects\weather_app\obj\Debug\netcoreapp3.1\weather_app.csproj.CopyComplete
