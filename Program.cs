@@ -19,7 +19,7 @@ namespace weather_app
             HttpResponseMessage response = await client.GetAsync(path);
             if (response.IsSuccessStatusCode)
             {
-                var stringResp = await response.Content.ReadAsStringAsync();
+                string stringResp = await response.Content.ReadAsStringAsync();
                 result = JsonConvert.DeserializeObject<ResponseModel>(stringResp);
             }
             else
@@ -67,6 +67,8 @@ namespace weather_app
                 Console.WriteLine("Should I wear sunscreen? {0}", sunscreenCheck ? "Yes" : "No");
                 Console.WriteLine("Can I fly my kite? {0}", kiteFlightCheck ? "Yes" : "No");
             }
+
+            client.Dispose();
         }
     }
 }
